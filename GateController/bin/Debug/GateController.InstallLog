@@ -1,0 +1,797 @@
+﻿'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.Security.SecurityException: Kaynak bulunamadı; ancak olay günlüklerinin bazılarında veya hiçbirinde arama yapılamadı. Erişilemeyen günlükler: Security.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+GateControllerService hizmetini durdurma girişimi.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin Geri Alma aşamasında özel durum oluştu.
+System.Security.SecurityException: Kaynak bulunamadı; ancak olay günlüklerinin bazılarında veya hiçbirinde arama yapılamadı. Erişilemeyen günlükler: Security.
+Yüklemenin Geri Alma aşamasında özel durum oluştu. Bu özel durum yoksayılacak ve geri alma devam edecek. Ancak geri alma tamamlandıktan sonra makine ilk durumuna tamamen dönemeyebilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+System.Diagnostics.EventLogInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.Security.SecurityException: İstenen kayıt defteri erişimine izin verilmiyor.
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService EventLog kaynağı kaldırılıyor.
+GateControllerService hizmeti sistemden kaldırılıyor...
+GateControllerService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
+GateControllerService hizmeti yükleniyor...
+GateControllerService hizmeti başarıyla yüklendi.
+Application günlüğünde GateControllerService EventLog kaynağı oluşturuluyor...
+'C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.InstallLog
+   assemblypath = C:\Users\dell\source\repos\GateController\GateController\bin\Debug\GateController.exe
